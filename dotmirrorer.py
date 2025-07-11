@@ -1,7 +1,7 @@
 # This tool copies all your dotfiles and dotfolders to the location of your choice and creates a timestamp. You may need this application when you change and reset your system or in other different situations.
 # LEXIONQ IS NOT RESPONSIBLE FOR ANY FILE LOSS THAT MAY OCCUR!
+# The developer lexionq is not responsible for file losses and system errors that may occur.
 # Follow me on GitHub : https://github.com/lexionq
-
 
 import os
 import shutil
