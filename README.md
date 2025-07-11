@@ -52,11 +52,11 @@ If you don't get an error, directly run the program:
 `python3 dotmirrorer.py`
 
 # Usage
-The first time you run the program it says `This tool copies dotfiles from the user directory to the desired location. Do you want dotfolders to be copied too? ( y / n )` you will get such a question.  If you say yes (y), your dotfolders will be backed up as well as folders like `.config` for example. But if you say no, there will be no backup for your dotfolders.
+- If you run the program it says `This tool copies dotfiles from the user directory to the desired location. Do you want dotfolders to be copied too? ( y / n )` you will get such a question.  If you say yes (y), your dotfolders will be backed up as well as folders like `.config` for example. But if you say no, there will be no backup for your dotfolders.
 
-Then, the program will ask you for a folder for backup and you will enter the path of the folder you want for backup.
+- Then, the program will ask you for a folder for backup and you will enter the path of the folder you want for backup.
 
-Then you don't have to do anything. The program will back up all the DotFiles and Dotfolders you want to back up in your user directory to the folder you want to back up.
+- Then you don't have to do anything. The program will back up all the DotFiles and Dotfolders you want to back up in your user directory to the folder you want to back up.
 
 
 
